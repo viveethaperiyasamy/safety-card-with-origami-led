@@ -34,4 +34,4 @@
     
   
 **Product image**![Result](Result.png)
-**product image**![Circuit](Circuit.jpg)
+**circuit image**![Circuit](Circuit.jpg)
